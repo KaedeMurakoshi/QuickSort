@@ -6,7 +6,7 @@
 #include <cstdlib>
 using namespace std;
 
-const int SIZE = 1000;
+const int SIZE = 100;
 
 // 配列の中身を表示
 void ShowArray(int* pArr, int SIZE)
